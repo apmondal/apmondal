@@ -44,7 +44,7 @@ I am a Full-stack Web Developer. A fast learner and a positive thinker who is al
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apmondal&repo=Ecommerce_Shop&desc=how)](https://github.com/apmondal/Ecommerce_Shop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apmondal&repo=Ecommerce_Shop&description=how)](https://github.com/apmondal/Ecommerce_Shop)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apmondal&repo=Blog_App)](https://github.com/apmondal/Blog_App)
 
 ---
