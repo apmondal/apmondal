@@ -6,10 +6,9 @@ I am a Full-stack Web Developer. A fast learner and a positive thinker who is al
 
 ### 📫 How to reach me:
 
-<a href="https://www.linkedin.com/in/apurba-mondal-284434187/"><img align="left" alt="apurba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
-<a href="mailto:apmondall123@gmail.com"><img align="left" alt="apmondall123@gmail.com | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+[<img align="left" alt="apurba | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/apurba-mondal-284434187/)
+[<img align="left" alt="apmondall123@gmail.com | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:apmondall123@gmail.com)
 
-</br>
 </br>
 </br>
 
@@ -39,3 +38,18 @@ I am a Full-stack Web Developer. A fast learner and a positive thinker who is al
 <img src="http://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white">
 <img src="http://img.shields.io/badge/-Nginx-04c441?style=flat&logo=nginx&logoColor=white">
 <img src="http://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonwebservice&logoColor=white">
+<img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=apmondal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true)
+
+---
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apmondal&repo=XMeme)](https://github.com/apmondal/XMeme)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apmondal&repo=Sorting-Visualizer)](https://github.com/apmondal/Sorting-Visualizer)
+
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apmondal&layout=compact&exclude_repo=iCoder&langs_count=6)
