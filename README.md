@@ -1,6 +1,6 @@
 ### Hey Apurba here 👋
 
-I am a Full-stack Web Developer. A fast learner and a positive thinker who is always willing to learn new technologies and develop things. I like to develop websites which enhances user experience along with well maintained backend server with optimized code performance. 
+I am a Full-stack Web Developer. A fast learner and a positive thinker who is always willing to learn new technologies and develop things. I like to develop websites which enhances user experience along with well maintained backend server with optimized code performance.
 
 ---
 
@@ -14,10 +14,7 @@ I am a Full-stack Web Developer. A fast learner and a positive thinker who is al
 
 ![Profile views](https://gpvc.arturio.dev/apmondal)
 
-
-
 ---
-
 
 ### Tech & Tools Preference
 
@@ -46,9 +43,8 @@ I am a Full-stack Web Developer. A fast learner and a positive thinker who is al
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apmondal&repo=XMeme)](https://github.com/apmondal/XMeme)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apmondal&repo=Sorting-Visualizer)](https://github.com/apmondal/Sorting-Visualizer)
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apmondal&repo=Ecommerce_Shop)](https://github.com/apmondal/Ecommerce_Shop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apmondal&repo=Blog_App)](https://github.com/apmondal/Blog_App)
 
 ---
 
