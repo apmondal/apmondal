@@ -37,3 +37,4 @@ I am a Full-stack Web Developer. A fast learner and a positive thinker who is al
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Docker-0db7ed?style=flat&logo=docker&logoColor=white">
 <img src="http://img.shields.io/badge/-Nginx-04c441?style=flat&logo=nginx&logoColor=white">
+<img src="http://img.shields.io/badge/-AWS-FF9900?style=flat&logo=aws&logoColor=white">
