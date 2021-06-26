@@ -40,7 +40,7 @@ I am a Full-stack Web Developer. A fast learner and a positive thinker who is al
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=apmondal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=apmondal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true@theme=radical)
 
 ---
 
@@ -48,5 +48,5 @@ I am a Full-stack Web Developer. A fast learner and a positive thinker who is al
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apmondal&repo=Ecommerce_Shop)](https://github.com/apmondal/Ecommerce_Shop)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apmondal&repo=Blog_App)](https://github.com/apmondal/Blog_App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apmondal&repo=Ecommerce_Shop&show_owner=true)](https://github.com/apmondal/Ecommerce_Shop)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=apmondal&repo=Blog_App&show_owner=true)](https://github.com/apmondal/Blog_App)
