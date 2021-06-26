@@ -40,11 +40,7 @@ I am a Full-stack Web Developer. A fast learner and a positive thinker who is al
 
 ---
 
-![Readme Card](https://github-readme-stats.vercel.app/api?username=apmondal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true@theme=radical)
-
----
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apmondal&layout=compact&exclude_repo=iCoder&langs_count=6)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=apmondal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apmondal&layout=compact&exclude_repo=iCoder&langs_count=6)
 
 ---
 
