@@ -1,4 +1,4 @@
-## Hey Apurba here   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px">
+## Hey Apurba here!   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="23px">
 
 I am a Full-stack Web Developer. A fast learner and a positive thinker who is always willing to learn new technologies and develop things. I like to develop websites which enhances user experience along with well maintained backend server with optimized code performance.
 
@@ -40,7 +40,11 @@ I am a Full-stack Web Developer. A fast learner and a positive thinker who is al
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=apmondal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apmondal&layout=compact&exclude_repo=iCoder&langs_count=6)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=apmondal&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&show_owner=true&theme=tokyonight)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apmondal&layout=compact&exclude_repo=iCoder&langs_count=6)
 
 ---
 
