@@ -1,4 +1,4 @@
-### Hey Apurba here  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+### Hey Apurba here  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="20px>
 
 I am a Full-stack Web Developer. A fast learner and a positive thinker who is always willing to learn new technologies and develop things. I like to develop websites which enhances user experience along with well maintained backend server with optimized code performance.
 
